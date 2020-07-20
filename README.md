@@ -1,6 +1,6 @@
 # Scheduler
 # Introduction
-This is a mockup of a scheduler which probabilistically finds
+This is a mockup of a scheduler which probabilistically finds possible combinations of schedules of teachers under constraints.
 
 # Availability:
 There is a total of 5 work days a week with 6 total slots each. Slots can either be open or closed. Only open slots can be assigned to teachers.
